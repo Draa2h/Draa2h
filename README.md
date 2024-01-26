@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋 My name is Jordan
+===================
+I am currently pursuing a bachelor's degree in networking and telecommunications
 
-<!--
-**Draa2h/Draa2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:speech_balloon: About me :
+- Self-hosting enthusiast
+- Linux aficionado
+- Open-source supporter
 
-Here are some ideas to get you started:
+:mag: Interests : `Networking`, `System Administration`, `Automation`, `Cyber Security` and `Development`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:seedling: Future Projects : `Home Server`, `Blog`
+
+:dart: Certifications : I am actively working on getting `Comptia A+` and `CCNA` certified
+
+#### Development and Tools :
+[![My Skills](https://skillicons.dev/icons?i=c,py,java,bash,linux,docker,kubernetes,mysql,md)](https://skillicons.dev)
